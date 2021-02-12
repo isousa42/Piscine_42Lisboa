@@ -1,0 +1,8 @@
+Credentials cache: API:BB6877C0-7FDD-4243-94D1-69F10ADCD788
+        Principal: isousa@42LISBOA.COM
+
+  Issued                Expires               Principal
+Nov 24 15:20:42 2020  Nov 25 01:20:42 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
+Nov 24 15:20:44 2020  Nov 25 01:20:42 2020  HTTP/student-storage.42lisboa.com@42LISBOA.COM
+
+
