@@ -4,8 +4,7 @@
 
 This Projects were done during Piscine on 42Lisboa, between 23rd November and 18th December, 2020.
 
-✔️ Shell 00  
-✔️ Shell 01
+<p>✔️ Shell 00 ✔️ Shell 01<br />
 ✔️ C 00
 ✔️ C 01
 ✔️ C 02
@@ -14,7 +13,7 @@ This Projects were done during Piscine on 42Lisboa, between 23rd November and 18
 ✔️ C 05
 ✔️ C 06
 ✔️ C 07
-✔️ C 08
+✔️ C 08 </p>
 
 ‼️ NOTE: Project C06 passed because it got 2 evaluations of 60%. It got graded 45% by Moulinette. 
 
