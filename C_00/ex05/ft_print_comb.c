@@ -102,7 +102,7 @@ void	ft_print_comb(void)
 **	Ok, we saw that the condition is not true, so what is inside the curly brackets '{...}' of the if would not happen, but we have the '!', so it will happen. 
 **	You see? It's the oposite. If you still don't understand this part, it's fine, there's a lot of videos on youtube about this. 
 **
-**	While the number is not 789, it will always wnter the if statement, and will always write the ',' and ' ' (space) in the terminal, using ft_putchar, that
+**	While the number is not 789, it will always enter the if statement, and will always write the ',' and ' ' (space) in the terminal, using ft_putchar, that
 **		you already know very well for shore.
 **	After printing the number and the separations, it will return to the ft_print_comb() function and continue. It will increment the variables, and repeat the process
 **		with all the different combinations.
