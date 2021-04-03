@@ -26,7 +26,7 @@ void	ft_print_alphabet(void)
 
 /*	READ THIS IF YOU DIND'T UNDERSTAND THE CODE:
 **
-**   *Make sure you understand ft_putchar so you can understand this one.
+**   *Make sure you understand ft_putchar() so you can understand this one.
 **
 **   In ft_print_alphabet() function, you don't receive anything by argument, so 
 **	you need to create a variable of type char that I called 'i'. You do this

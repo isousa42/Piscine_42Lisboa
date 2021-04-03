@@ -52,3 +52,10 @@ void	ft_print_comb(void)
 		n++;
 	}
 }
+
+/*	READ THIS IF YOU DIND'T UNDERSTAND THE CODE:
+**
+**   *Make sure you understand the previous functions of this subject to understand this one.
+**
+**   
+*/
