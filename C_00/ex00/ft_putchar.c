@@ -18,7 +18,7 @@ void	ft_putchar(char c)
 }
 
 
-/*	EXPLANATION:
+/*	READ THIS IF YOU DIND'T UNDERSTAND THE CODE:
 **
 **   ft_putchar is a very simple fuction that will allow you to print
 ** 	a character in the terminal. 
